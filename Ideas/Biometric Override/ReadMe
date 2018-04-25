@@ -1,0 +1,6 @@
+Biometric Override
+Should be part of security/hardware/biometric
+Biometric Override is part of the security module and links in.
+Biometric data and the Biometric override password returns two things to security controller:
+  The user id and if it succeeded or not along with if biometric override was used.
+  Biometric Override 
